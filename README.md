@@ -18,9 +18,9 @@ Read [my blog](https://gizmo.codes/) or [follow @Art_Wolf on Twitter](https://tw
     </td>
     <td valign="top" width="34%">
       <h2>💾 100 Days of Code</h2>
-      <h4>Day 4: August 4, 2020</h4>
-      <p><b>Today's Progress:</b> Great progress, was able to get the script to output Honeycode's workbook and table arns. Pulling together the whole piece by setting up the DB, and working on a very basic CRUD lambda to test the end to end workflow with.</p>
-      <p><b>Thoughts:</b> Skipping a lot of best practices for this demo... wonder if I should go back to clean everything up.. but these are not meant to be finished products and simply proof of ideas..</p>
-      <p><b>Link to work:</b> <a href="https://github.com/johncolmdoyle/aws-rds-to-honeycode/tree/master/query-honeycode">query-honeycode</a>
+      <h4>Day 5: August 5, 2020</h4>
+      <p><b>Today's Progress:</b> Right, it appears that I've got the end to end flow working successfully! Update a db table, see the trigger output in the Honeycode table!</p>
+      <p><b>Thoughts:</b>Now, time to write up a blog post on it and go a video tutorial of the poc.</p>
+      <p><b>Link to work:</b> <a href="https://github.com/johncolmdoyle/aws-rds-to-honeycode">query-honeycode</a></p>
   </tr>
 </table>
