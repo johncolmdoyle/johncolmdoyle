@@ -19,9 +19,9 @@ Read [my blog](https://gizmo.codes/) or [follow @Art_Wolf on Twitter](https://tw
     </td>
     <td valign="top" width="34%">
       <h2>💾 100 Days of Code</h2>
-      <h4>Day 6: August 11, 2020</h4>
-      <p><b>Today's Progress:</b> Got the blog post up and all the code fixed with Honeycode!</p>
-      <p><b>Thoughts:</b>Just dumped everything into a single blog post, with no true planning.. pretty much a mess, but just want to move on from it already!</p>
-      <p><b>Link to work:</b> <a href="https://gizmo.codes/postgresql-to-honeycode-pipeline/">blog post</a> and <a href="https://github.com/johncolmdoyle/aws-rds-to-honeycode">code</a></p>
+      <h4>Day 7: August 12, 2020</h4>
+      <p><b>Today's Progress:</b> Learning about k3sup and focused on installing and configuring Ubuntu via Virtualbox for testing Kubernetes.</p>
+      <p><b>Thoughts:</b>I need to write up a post, as it has been way too long since I last stood up Ubuntu in VB, setting up SSH keys etc...</p>
+    </td>
   </tr>
 </table>
