@@ -21,7 +21,7 @@ Read [my blog](https://gizmo.codes/) or [follow @Art_Wolf on Twitter](https://tw
       <h4>Day 9: August 18, 2020</h4>
       <p><b>Today's Progress:</b> Wonderful progress, banged out a quick project to like KubeCon EU sessions based on their popularity</p>
       <p><b>Thoughts:</b> Enjoyed working on AWS CDK again - been some fantastic updates since it first got released!</p>
-      <p><b>Link to work:</b> <a href="https://github.com/johncolmdoyle/kubecon-eu-popular-sessions">GitHub Report</a></p>
+      <p><b>Link to work:</b> <a href="https://github.com/johncolmdoyle/kubecon-eu-popular-sessions">GitHub Repo</a></p>
     </td>
   </tr>
 </table>
