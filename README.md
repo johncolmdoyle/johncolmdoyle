@@ -18,10 +18,10 @@ Read [my blog](https://gizmo.codes/) or [follow @Art_Wolf on Twitter](https://tw
     </td>
     <td valign="top" width="34%">
       <h2>💾 100 Days of Code</h2>
-      <h4>Day 8: August 12, 2020</h4>
-      <p><b>Today's Progress:</b> Eh, questionable in terms of the code, spent the evening with Virtualbox and k3sup, got everything working and networked properly!</p>
-      <p><b>Thoughts:</b> It is good to setup VirtualBox again, have a proper master with workers setup.</p>
-      <p><b>Link to work:</b> <a href="https://gizmo.codes/k3sup-on-macos-catalina/">Blog Post</a></p>
+      <h4>Day 9: August 18, 2020</h4>
+      <p><b>Today's Progress:</b> Wonderful progress, banged out a quick project to like KubeCon EU sessions based on their popularity</p>
+      <p><b>Thoughts:</b> Enjoyed working on AWS CDK again - been some fantastic updates since it first got released!</p>
+      <p><b>Link to work:</b> <a href="https://github.com/johncolmdoyle/kubecon-eu-popular-sessions">GitHub Report</a></p>
     </td>
   </tr>
 </table>
