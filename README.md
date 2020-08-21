@@ -18,10 +18,10 @@ Read [my blog](https://gizmo.codes/) or [follow @Art_Wolf on Twitter](https://tw
     </td>
     <td valign="top" width="34%">
       <h2>💾 100 Days of Code</h2>
-      <h4>Day 10: August 19, 2020</h4>
-      <p><b>Today's Progress:</b> A little bit more work on the kubeconvibes - going to track popularity over time. Started another mini project from within Silbo - migrating the setup to AWS CDK how we automate some of our nightly SQL statements.</p>
-      <p><b>Thoughts:</b> Pulling the hair out trying to figure out why in a new AWS CDK project I couldn't even create buckets - apparently I installed my dependencies just as 1.60.0 was released fo @aws-cdk/s3, so was out of sync with core...</p>
-      <p><b>Link to work:</b> <a href="https://github.com/johncolmdoyle/aws-rds-nightly-backup">aws-rds-nightly-backup</a> and <a href="https://github.com/johncolmdoyle/kubecon-eu-popular-sessions">kubeconvibes</a></p>
+      <h4>Day 11: August 20, 2020</h4>
+      <p><b>Today's Progress:</b> Got the RDS backup successfully migrated over to CDK!</p>
+      <p><b>Thoughts:</b> Wow, installing postgresql 11.6 on amazon linux 2 is a massive pain...</p>
+      <p><b>Link to work:</b> <a href="https://github.com/johncolmdoyle/aws-rds-nightly-backup">aws-rds-nightly-backup</a></p>
     </td>
   </tr>
 </table>
