@@ -9,11 +9,11 @@ Read [my blog](https://gizmo.codes/) or [follow @Art_Wolf on Twitter](https://tw
     <td valign="top" width="33%">
       <h2>🔭 The Blog</h2>
       <ul>
+        <li><a href="https://gizmo.codes/aws-cdk-rds-backup-at-silbo/">AWS CDK RDS Backup At Silbo</a> - 2020-08-21</li>
         <li><a href="https://gizmo.codes/kubecon-eu-day-1/">KubeCon EU Day 1</a> - 2020-08-18</li>
         <li><a href="https://gizmo.codes/k3sup-on-macos-catalina/">k3sup On MacOs Catalina</a> - 2020-08-12</li>
         <li><a href="https://gizmo.codes/postgresql-to-honeycode-pipeline/">PostgreSQL to Honeycode Pipeline</a> - 2020-08-10</li>
         <li><a href="https://gizmo.codes/get-aws-honeycode-table-uuids/">Get AWS Honeycode Table UUIDs</a> - 2020-08-05</li>
-        <li><a href="https://gizmo.codes/aws-community-builders/">AWS Community Builders</a> - 2020-08-01</li>
       </ul>
     </td>
     <td valign="top" width="34%">
