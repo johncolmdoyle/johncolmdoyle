@@ -18,10 +18,10 @@ Read [my blog](https://gizmo.codes/) or [follow @Art_Wolf on Twitter](https://tw
     </td>
     <td valign="top" width="34%">
       <h2>💾 100 Days of Code</h2>
-      <h4>Day 11: August 20, 2020</h4>
-      <p><b>Today's Progress:</b> Got the RDS backup successfully migrated over to CDK!</p>
-      <p><b>Thoughts:</b> Wow, installing postgresql 11.6 on amazon linux 2 is a massive pain...</p>
-      <p><b>Link to work:</b> <a href="https://github.com/johncolmdoyle/aws-rds-nightly-backup">aws-rds-nightly-backup</a></p>
+      <h4>Day 12: August 22, 2020</h4>
+      <p><b>Today's Progress:</b> Spent a large portion of the day in @cfregly and @anbarth's workshop on #Kubeflow + #BERT + #GPU + #TensorFlow + #Keras + #SageMaker!</p>
+      <p><b>Thoughts:</b> This was the second time I've taken the course, the quantity of information thrown at you is so intense. Made it a lot further - though still haven't achieved the whole 8 hours.</p>
+      <p><b>Link to work:</b> <a href="https://github.com/johncolmdoyle/workshop">datascienceonaws.com</a></p>
     </td>
   </tr>
 </table>
