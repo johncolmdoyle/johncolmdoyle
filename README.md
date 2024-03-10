@@ -1,4 +1,4 @@
-Read [my blog](https://gizmo.codes/) or [follow @Art_Wolf on Twitter](https://twitter.com/Art_Wolf).
+Read [my blog](https://johndoyle.ie) or [follow @Art_Wolf on Twitter](https://twitter.com/Art_Wolf).
 
 <table>
   <tr>
@@ -9,7 +9,7 @@ Read [my blog](https://gizmo.codes/) or [follow @Art_Wolf on Twitter](https://tw
     <td valign="top" width="33%">
       <h2>🔭 The Blog</h2>
       <ul>
-        <li><a href="https://gizmo.codes/building-a-muti-region-app-with-aws-cdk-part-1/">Building a Multi-Region app with AWS CDK - Part 1</a> - 2021-02-07</li>
+        <li><a href="https://dev.to/aws-builders/building-a-multi-region-app-with-aws-cdk-part-1-34g8">Building a Multi-Region app with AWS CDK - Part 1</a></li>
         <li><a href="https://gizmo.codes/287-hours/">287 Hours</a> - 2021-02-02</li>
         <li><a href="https://gizmo.codes/java-lambda-containers/">AWS Java Lambda Containers</a> - 2020-12-08</li>
         <li><a href="https://gizmo.codes/aws-cdk-rds-backup-at-silbo/">AWS CDK RDS Backup At Silbo</a> - 2020-08-21</li>
